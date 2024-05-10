@@ -4,7 +4,8 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        //Do your magic here...
+        PemesananTiket.tampilkanMenu();
+        // Do your magic here...
     }
 
     /*

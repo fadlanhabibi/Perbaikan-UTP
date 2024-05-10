@@ -1,4 +1,4 @@
 interface HargaTiket {
-    //Do your magic here...
- }
- 
+    // Do your magic here...
+    int getHarga();
+}
